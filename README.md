@@ -12,11 +12,11 @@ This project analyzes NYC Yellow Taxi trip data using Power BI to explore trip p
 
 ## Dashboard Pages
 
-### 1. Taxi Trip Analysis
-![Taxi Trip Analysis](NYC-Taxi-Page1.png)
+### 1. Employee Perspective
+![Employee Perspective](NYC-Taxi-Page1.png)
 
-### 2. Revenue and Trip Insights
-![Revenue and Trip Insights](NYC-Taxi-Page2.png)
+### 2. Vendor Perspective
+![Vendor Perspective](NYC-Taxi-Page2.png)
 
 ## Project Purpose
 This portfolio project demonstrates my practical skills in data analysis, data modeling, DAX, and interactive reporting with Power BI.
